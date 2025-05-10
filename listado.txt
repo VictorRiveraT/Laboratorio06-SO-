@@ -1,0 +1,12 @@
+total 12
+drwxrwxr-x  5 ubuntu ubuntu 200 May  9 17:06 .
+drwxr-x--- 16 ubuntu ubuntu 420 May  9 17:06 ..
+-rw-rw-r--  1 ubuntu ubuntu   0 May  9 17:06 config.cfg
+drwxrwxr-x  4 ubuntu ubuntu 100 May  9 17:06 datos
+-rw-rw-r--  1 ubuntu ubuntu   0 May  9 17:06 listado.txt
+-rw-rw-r--  1 ubuntu ubuntu 292 May  9 17:06 numeros_ordenados.txt
+-rw-rw-r--  1 ubuntu ubuntu 292 May  9 17:06 numeros.txt
+drwxrwxr-x  2 ubuntu ubuntu  60 May  9 17:06 respaldo
+drwxrwxr-x  2 ubuntu ubuntu  40 May  9 17:06 scripts
+-rw-rw-r--  1 ubuntu ubuntu 298 May  9 17:06 usuarios.txt
+Nueva línea de texto

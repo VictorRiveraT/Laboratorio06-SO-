@@ -1,0 +1,92 @@
+    PID TTY          TIME CMD
+   2617 ?        00:00:01 systemd
+   2618 ?        00:00:00 (sd-pam)
+   2668 ?        00:00:03 pipewire
+   2670 ?        00:00:00 pipewire
+   2672 ?        00:00:00 wireplumber
+   2673 ?        00:00:00 pipewire-pulse
+   2674 ?        00:00:00 gnome-keyring-d
+   2679 ?        00:00:00 dbus-daemon
+   2699 tty2     00:00:00 gdm-x-session
+   2703 tty2     00:00:41 Xorg
+   3043 tty2     00:00:00 gnome-session-b
+   3156 ?        00:00:00 at-spi-bus-laun
+   3167 ?        00:00:00 dbus-daemon
+   3307 ?        00:00:00 gcr-ssh-agent
+   3308 ?        00:00:00 gnome-session-c
+   3326 ?        00:00:00 gvfsd
+   3336 ?        00:00:00 gvfsd-fuse
+   3370 ?        00:00:00 gnome-session-b
+   3397 ?        00:00:58 gnome-shell
+   3431 ?        00:00:00 mutter-x11-fram
+   3435 ?        00:00:00 at-spi2-registr
+   3474 ?        00:00:00 xdg-permission-
+   3475 ?        00:00:00 gnome-shell-cal
+   3495 ?        00:00:00 evolution-sourc
+   3504 ?        00:00:00 dconf-service
+   3512 ?        00:00:00 gjs
+   3529 ?        00:00:03 ibus-daemon
+   3537 ?        00:00:00 gsd-a11y-settin
+   3540 ?        00:00:00 gsd-color
+   3541 ?        00:00:00 gsd-datetime
+   3543 ?        00:00:00 gsd-housekeepin
+   3544 ?        00:00:00 gsd-keyboard
+   3545 ?        00:00:00 gsd-media-keys
+   3546 ?        00:00:00 gsd-power
+   3551 ?        00:00:00 gsd-print-notif
+   3552 ?        00:00:00 gsd-rfkill
+   3553 ?        00:00:00 gsd-screensaver
+   3558 ?        00:00:00 gsd-sharing
+   3559 ?        00:00:00 gsd-smartcard
+   3562 ?        00:00:00 gsd-sound
+   3563 ?        00:00:00 gsd-wacom
+   3565 ?        00:00:00 gsd-xsettings
+   3606 ?        00:00:00 gsd-disk-utilit
+   3611 ?        00:00:00 goa-daemon
+   3619 ?        00:00:00 evolution-alarm
+   3694 ?        00:00:00 gvfs-udisks2-vo
+   3699 ?        00:00:00 goa-identity-se
+   3714 ?        00:00:00 gsd-printer
+   3760 ?        00:00:00 evolution-calen
+   3769 ?        00:00:00 gvfs-mtp-volume
+   3783 ?        00:00:00 gvfs-gphoto2-vo
+   3792 ?        00:00:00 gvfs-goa-volume
+   3801 ?        00:00:00 evolution-addre
+   3806 ?        00:00:00 gvfsd-metadata
+   3807 ?        00:00:00 gvfs-afc-volume
+   3839 ?        00:00:00 gjs
+   3946 ?        00:00:00 ibus-dconf
+   3947 ?        00:00:02 ibus-extension-
+   3952 ?        00:00:00 ibus-x11
+   3955 ?        00:00:00 tracker-miner-f
+   3956 ?        00:00:00 ibus-portal
+   3990 ?        00:00:01 ibus-engine-sim
+   4040 ?        00:00:00 gvfsd-trash
+   4101 ?        00:00:00 xdg-desktop-por
+   4111 ?        00:00:00 xdg-document-po
+   4132 ?        00:00:00 xdg-desktop-por
+   4196 ?        00:00:00 xdg-desktop-por
+   4397 ?        00:00:00 snapd-desktop-i
+   4587 ?        00:00:00 snapd-desktop-i
+   5435 ?        00:00:00 update-notifier
+   5693 ?        00:00:01 gjs
+   5928 ?        00:00:00 gvfsd-recent
+   6394 ?        00:01:11 firefox
+   6607 ?        00:00:00 Socket Process
+   6669 ?        00:00:00 WebExtensions
+   6674 ?        00:00:00 RDD Process
+   6700 ?        00:00:01 Privileged Cont
+   6745 ?        00:00:00 Isolated Web Co
+   6748 ?        00:00:53 Isolated Web Co
+   6786 ?        00:00:00 snap
+   7247 ?        00:00:00 Utility Process
+   7452 ?        00:00:03 Isolated Servic
+   7485 ?        00:00:00 Web Content
+   7532 ?        00:00:00 Web Content
+   7606 ?        00:00:00 Web Content
+   8116 ?        00:00:05 nautilus
+   8258 ?        00:00:00 gnome-terminal-
+   8270 pts/0    00:00:00 bash
+   8286 pts/0    00:00:00 laboratorio06_c
+   8290 ?        00:00:00 tracker-extract
+   8327 pts/0    00:00:00 ps

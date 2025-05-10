@@ -1,0 +1,5 @@
+usuario1:x:1000:1000:Juan Pérez:/home/usuario1:/bin/bash
+usuario2:x:1001:1001:María García:/home/usuario2:/bin/bash
+usuario3:x:1002:1002:Carlos López:/home/usuario3:/bin/zsh
+usuario4:x:1003:1003:Ana Martínez:/home/usuario4:/bin/bash
+usuario5:x:1004:1004:Pedro Sánchez:/home/usuario5:/bin/zsh
