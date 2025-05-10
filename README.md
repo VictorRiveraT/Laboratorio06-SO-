@@ -30,7 +30,7 @@ cat ~/laboratorio/datos/entrada/datos1.txt
 head -n 3 ~/laboratorio/datos/entrada/datos1.txt
 tail -n 2 ~/laboratorio/datos/entrada/datos1.txt
 
-# Ejercicio 2 para desarrollar
+# Ejercicio 2
 cd ~/laboratorio/datos
 for i in {1..20}; do echo "Línea número $i" >> registro.log; done
 head -n 5 registro.log
@@ -50,7 +50,7 @@ echo "usuario5:x:1004:1004:Pedro Sánchez:/home/usuario5:/bin/zsh" >> usuarios.t
 grep "bash" usuarios.txt
 grep -v "bash" usuarios.txt
 
-# Ejercicio 3 para desarrollar
+# Ejercicio 3
 find . -type f -name "*.txt"
 seq 1 100 > numeros.txt
 grep -E "^[0-9]*[02468]$" numeros.txt
@@ -75,7 +75,7 @@ echo 'echo "Hola, $USER. La fecha actual es $(date)"' >> ~/laboratorio/scripts/s
 chmod +x ~/laboratorio/scripts/saludo.sh
 ~/laboratorio/scripts/saludo.sh
 
-# Ejercicio 5 para desarrollar
+# Ejercicio 5
 cd ~/laboratorio
 mkdir privado
 echo "Contenido confidencial" > privado/confidencial.txt
@@ -95,7 +95,7 @@ sleep 300 &
 jobs
 kill %1
 
-# Ejercicio 6 para desarrollar
+# Ejercicio 6
 ping google.com > ~/laboratorio/ping_log.txt &
 pgrep ping
 # kill <PID>  (Reemplazar con el número real)
@@ -116,7 +116,7 @@ EOL
 chmod +x ~/laboratorio/scripts/info_sistema.sh
 ~/laboratorio/scripts/info_sistema.sh
 
-# Ejercicio 7 para desarrollar
+# Ejercicio 7
 cat > ~/laboratorio/scripts/backup.sh << 'EOF'
 #!/bin/bash
 if [ -z "$1" ]; then
