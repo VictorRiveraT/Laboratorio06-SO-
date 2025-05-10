@@ -4,3 +4,6 @@
 *.log
 *.tar.gz
 *~
+*.log
+*.tar.gz
+*~
